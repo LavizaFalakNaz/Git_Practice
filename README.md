@@ -12,7 +12,7 @@ once installed, search for "GIT GUI" on windows search option. you should see a 
 
 now you need to link this VCS (Version Control System) with an application like GitHub! (And Whoosh, by default you alread prepared it to link to a github account!)
 
-# LINKING TO A GITHUB ACCOUNT
+# BASIC GIT COMMANDS
 
 open powershell and run the following commands
 Create a new test directory (folder) by entering the following:
