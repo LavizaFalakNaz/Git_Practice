@@ -19,28 +19,28 @@ Create a new test directory (folder) by entering the following:
 ```
 mkdir git_test
 ```
-###Change your location to the newly created directory:
+### Change your location to the newly created directory:
 ```
 cd git_test
 ```
-###Configure GitHub Credentials
+### Configure GitHub Credentials
 ```
 git config ––global user.name “github_username”
 git config ––global user.email “email_address”
 ```
-###Clone a GitHub Repository
+### Clone a GitHub Repository
 ```
 git clone <em>repository_url</em>
 ```
-List Remote Repositories
+### List Remote Repositories
 ```
 cd git_project
 ```
-list the remote repositories:
+### list the remote repositories:
 ```
 git remote –v
 ```
-Pushing Local Files to the Remote Repository
+### Pushing Local Files to the Remote Repository
 
 1. For example, create a new text file by entering the following into your PowerShell window:
 ```
